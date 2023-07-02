@@ -4,6 +4,8 @@ Used technologies:
 
 - MVVM
 - Coroutines
+- Room
+- Loading Dialog
 - Kotlin
 - Consumo de API (Coroutines + Retrofit)
 - Okhttp
